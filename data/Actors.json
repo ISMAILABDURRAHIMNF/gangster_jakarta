@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"battlerName":"Actor1_1","characterIndex":2,"characterName":"Actor1","classId":1,"equips":[0,0,0,3,4],"faceIndex":2,"faceName":"Actor1","traits":[],"initialLevel":5,"maxLevel":99,"name":"Rudi ","nickname":"","note":"","profile":""},
+{"id":1,"battlerName":"Actor1_1","characterIndex":2,"characterName":"Actor1","classId":5,"equips":[0,0,0,3,4],"faceIndex":2,"faceName":"Actor1","traits":[],"initialLevel":5,"maxLevel":99,"name":"Rudi ","nickname":"","note":"","profile":"Seorang pemuda yang keras kepala, ambisius, dan bisa sangat tidak sabar jika menghadapi rintangan. Tidak takut untuk membalas jika merasa dilukai."},
 {"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
